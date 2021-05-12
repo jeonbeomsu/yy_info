@@ -23,7 +23,7 @@
     "apexcharts": "^3.16.1",
     "bootstrap": "4.3.1",
     "bootstrap-vue": "^2.11.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "d3": "^5.7.0",
     "datamaps": "^0.5.9",
     "date-fns": "^1.30.1",
